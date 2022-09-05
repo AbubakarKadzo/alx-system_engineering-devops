@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l 0x02-shell_redirections
+ls -t1 | head -n 10
